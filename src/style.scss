@@ -1,0 +1,16 @@
+$standard_color: red ;
+
+* {
+    padding : 0 ;
+    margin:0 ;
+    box-sizing: border-box;
+}
+/*  commento */
+
+
+h1 {
+    color: $standard_color;
+}
+p {
+    color: $standard_color;
+}
