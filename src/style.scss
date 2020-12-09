@@ -1,4 +1,6 @@
 $standard_color: red ;
+$secondary_color: blue;
+$margin_titolo : 10px;
 
 * {
     padding : 0 ;
@@ -9,8 +11,17 @@ $standard_color: red ;
 
 
 h1 {
+    padding: $margin_titolo;
     color: $standard_color;
 }
-p {
+h2 {
+    padding: $margin_titolo;
+    color: $secondary_color;
+}
+input {
+    padding: $margin_titolo;
+
+}
+a {
     color: $standard_color;
 }

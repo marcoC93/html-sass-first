@@ -7,10 +7,20 @@
 /*  commento */
 
 h1 {
+  padding: 10px;
   color: red;
 }
 
-p {
+h2 {
+  padding: 10px;
+  color: blue;
+}
+
+input {
+  padding: 10px;
+}
+
+a {
   color: red;
 }
 
